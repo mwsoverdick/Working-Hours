@@ -1,0 +1,8 @@
+# Ignore JSON files for privacy
+*.json
+
+# Ignore HTML files also for privacy
+*.html
+
+# Ignore Mac OS file
+*.DS_Store
